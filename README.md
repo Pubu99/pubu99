@@ -1,4 +1,4 @@
-![MasterHead](https://wallpapers.com/blog/wp-content/uploads/2023/06/Web-development-concept-with-person-using-a-laptop-computer.jpeg)
+![MasterHead](https://www.aventussoftware.com/wp-content/uploads/2023/05/web-development.jpg)
 <h1 align="center">Hi 👋, I'm Pubudu Weerasinghe</h1>
 <h3 align="center">A dynamic Computer Engineering undergraduate. Passionate about tech, I thrive on innovation, adaptability, and problem-solving. Ready to embrace challenges and seize opportunities in the ever-evolving industry.</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/89845641/220167426-0c5f630e-6d56-4617-9775-71c2bd025b4f.gif">
