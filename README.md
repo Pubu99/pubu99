@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **pubuduarunodeng@gmail.com**
 
-- 📄 Know about my experiences [https://t.ly/S0oGj](https://t.ly/S0oGj)
+- 📄 Know about my experiences [https://t.ly/QwXei]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
